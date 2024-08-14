@@ -33,5 +33,12 @@
     "date": "2024-08-11T13:16:44.231Z",
     "lastModified": "2024-08-11T13:16:44Z",
     "path": "data/md/managing-articles.md"
+  },
+  {
+    "title": "My First Test",
+    "description": "hello?",
+    "date": "2024-08-14T05:09:24.945Z",
+    "lastModified": "2024-08-14T05:09:25Z",
+    "path": "data/md/my-first-article.md"
   }
 ]
